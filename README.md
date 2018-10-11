@@ -1975,5 +1975,8 @@ Sit back and enjoy. "Netflix and skill" :P
 
 ## CTFs and Hack thinks 
 
-- [] [https://shellterlabs.com/pt/]
-- [] [https://www.hackthissite.org/]
+- [ ] [https://shellterlabs.com/pt/]
+- [ ] [https://www.hackthissite.org/]
+
+## Competitive programming
+- [ ] [https://www.youtube.com/playlist?list=PL9sdTenuXlxmIsiKgJRYtUm_A0Cnh-vPB]
