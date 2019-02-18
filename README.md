@@ -212,8 +212,8 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 ## Don't feel you aren't smart enough
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
-- [] [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) 
-- [] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech] (https://www.youtube.com/watch?v=1i8ylq4j_EY) 
+- [ ] [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) 
+- [ ] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech] (https://www.youtube.com/watch?v=1i8ylq4j_EY) 
 - [x] [Believe you can change](http://www.aaronsw.com/weblog/dweck) 
 
 ## About Video Resources
@@ -230,7 +230,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 - [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
 - [x] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
 - [x] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
-- [] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
+- [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] Cracking The Coding Interview Set 1:
     - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
     - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
@@ -259,8 +259,8 @@ You could also use these, but read around first. There may be caveats:
 You need to be very comfortable in the language and be knowledgeable.
 
 Read more about choices:
-- http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
-- http://blog.codingforinterviews.com/best-programming-language-jobs/
+- [ ] http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
+- [ ] http://blog.codingforinterviews.com/best-programming-language-jobs/
 
 [See language resources here](programming-language-resources.md)
 
@@ -397,13 +397,12 @@ This list grew over many months, and yes, it kind of got out of hand.
 Here are some mistakes I made so you'll have a better experience.
 
 ### 1. You Won't Remember it All
--[x]
-I watched hours of videos and took copious notes, and months later there was much I didn't remember. I spent 3 days going
+- I watched hours of videos and took copious notes, and months later there was much I didn't remember. I spent 3 days going
 through my notes and making flashcards so I could review.
 
 Read please so you won't make my mistakes:
 
-[Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/)
+- [ ] [Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/)
 
 ### 2. Use Flashcards
 
@@ -479,7 +478,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 ## Prerequisite Knowledge
 
-- [x] **Learn C**
+- [ ] **Learn C**
     - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying.
     - [ ] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
         - This is a short book, but it will give you a great handle on the C language and if you practice it a little
@@ -494,7 +493,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 - nothing to implement
-- [x] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] Skiena:
