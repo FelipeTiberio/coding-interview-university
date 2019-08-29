@@ -1414,6 +1414,8 @@ Challenge sites:
 - [Sphere Online Judge (spoj)](http://www.spoj.com/)
 - [CodCad](https://http://www.codcad.com)
 - [Uri](https:https://www.urionlinejudge.com.br/)
+- [HackerRank](https://www.hackerrank.com/)
+- [Exercism](https://exercism.io/)
 
 Challenge repos:
 - [Interactive Coding Interview Challenges in Python](https://github.com/donnemartin/interactive-coding-challenges)
